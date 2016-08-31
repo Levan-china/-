@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7C48F355014B37F7CA59BCB0FFF6CB3392CE21C9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "42E9CFB34DF7FDC2BB25BE76B90417DBFDAA6998" : 0,
+    "7C48F355014B37F7CA59BCB0FFF6CB3392CE21C9" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0572D5BE-6D46-4946-AA11-BF59C6B02E9A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "42E9CFB34DF7FDC2BB25BE76B90417DBFDAA6998" : "",
+    "7C48F355014B37F7CA59BCB0FFF6CB3392CE21C9" : "fuck\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "fuck",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "fuck.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Levan-china\/learngit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "42E9CFB34DF7FDC2BB25BE76B90417DBFDAA6998"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Levan-china\/-.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7C48F355014B37F7CA59BCB0FFF6CB3392CE21C9"
+    }
+  ]
+}
